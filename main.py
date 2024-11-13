@@ -40,7 +40,7 @@ VNAFolder = 'your folder here'
 IPAddress = 'your IP address here'
 
 # The program will create the test s2p files for writing them to a VNA's folder
-# and transferring as binary blocks directly to VNA's memory for de-embedding (if you have this option on your PC)
+# and transferring as binary blocks directly to VNA's memory for de-embedding (if you have this option on your VNA)
 
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # Do not change anything below this line
