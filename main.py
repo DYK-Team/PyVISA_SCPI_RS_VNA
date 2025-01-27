@@ -7,8 +7,8 @@
 # RsInstrument is a Python remote-control communication module for R&S SCPI-based Test and Measurement Instruments
 # https://pypi.org/project/RsInstrument
 #
-# Yujie Zhao, Physics & Astronomy, University of St. Andrews, Scotland
-# DYK team, 05/10/2022
+# Dr. Yujie Zhao, Physics & Astronomy, University of St. Andrews, Scotland
+# Dr. Dmitriy Makhnovskiy, DYK team, 05/10/2022
 #
 
 import numpy as np
